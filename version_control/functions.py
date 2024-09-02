@@ -6,3 +6,5 @@ def frequency_calculation(lamdas, temp):
     frequencies = 1/(2*pi) * nmp.sqrt(lamdas/kt)
 
     return frequencies
+
+print('Hello!')
